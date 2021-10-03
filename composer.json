@@ -1,6 +1,6 @@
 {
-  "name": "stripe/stripe-php",
-  "description": "Stripe PHP Library",
+  "name": "tin-cat/stripe-php",
+  "description": "Stripe PHP Library, branched to support PHP 8",
   "keywords": [
     "stripe",
     "payment processing",
