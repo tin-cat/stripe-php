@@ -12,6 +12,11 @@ classes for API resources that initialize themselves dynamically from API
 responses which makes it compatible with a wide range of versions of the Stripe
 API.
 
+## Fork information
+This fork by @tin-cat aims to add compatibility with PHP 8 while the Stripe team implements an official upgrade to support it. It is provided without any warranty and I'm not reponsible for any problems bugs in here could cause to your implementation
+
+If you use this fork, please take into account that Stripe handles money operations and a bug in this code could cause grave consequences. Use it at your own responsiblity.
+
 ## Requirements
 
 PHP 5.6.0 and later.
